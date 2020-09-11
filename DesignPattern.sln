@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{2FBFB8DC-6375-4680-8526-28267855DC06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{2FBFB8DC-6375-4680-8526-28267855DC06}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{CF0D2EE9-D215-4CA6-94C2-A8C33919E81C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{0B84C1EC-785D-47A0-96DD-C4E1377E2473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{0B84C1EC-785D-47A0-96DD-C4E1377E2473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{E9A6284C-F84D-40F7-A5F9-718A98EDE5C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{E9A6284C-F84D-40F7-A5F9-718A98EDE5C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{03CCE677-F43D-4B58-98C9-36A9CAD77105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{03CCE677-F43D-4B58-98C9-36A9CAD77105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{4CEE5A71-6DD5-4FFE-9021-2E02F9B697EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{03CCE677-F43D-4B58-98C9-36A9CAD77105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03CCE677-F43D-4B58-98C9-36A9CAD77105}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03CCE677-F43D-4B58-98C9-36A9CAD77105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEE5A71-6DD5-4FFE-9021-2E02F9B697EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEE5A71-6DD5-4FFE-9021-2E02F9B697EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEE5A71-6DD5-4FFE-9021-2E02F9B697EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEE5A71-6DD5-4FFE-9021-2E02F9B697EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
