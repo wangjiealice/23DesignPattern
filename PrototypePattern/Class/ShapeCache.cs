@@ -7,8 +7,7 @@ namespace PrototypePattern
 {
     public class ShapeCache
     {
-        private static Hashtable shapeMap
-      = new Hashtable();
+        private static Hashtable shapeMap = new Hashtable();
 
         public static Shape getShape(string shapeId)
         {
