@@ -1,7 +1,9 @@
+#23 kinds of design pattern
 Implentate the 23 kinds of design pattern in C# in following webside:
 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
 Including following design-pattern:
+##Completed
 - 工厂模式（Factory Pattern）
 - 抽象工厂模式（Abstract Factory Pattern）
 - 单例模式（Singleton Pattern）
@@ -9,7 +11,8 @@ Including following design-pattern:
 - 原型模式（Prototype Pattern）
 - 状态模式（State Pattern）
 - 策略模式（Strategy Pattern）
-	
+
+##Not completed
 - 适配器模式（Adapter Pattern）In development
 - 桥接模式（Bridge Pattern）In development
 - 过滤器模式（Filter、Criteria Pattern）In development
